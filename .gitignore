@@ -1,2 +1,8 @@
 /target/
 /node_modules/
+/node/
+.idea/
+dist/
+frontend-maven-plugin-1.0.2.zip
+frontendmavenplugin.iml
+node/
